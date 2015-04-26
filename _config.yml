@@ -18,7 +18,7 @@ paginate_path: "page:num"
 ##The website description (to be used in meta tags)
 description: Blog about programming, devops and life
 ##Some frequently used keywords on your website
-keywords: golang ruby chef docker linux
+keywords: golang ruby chef docker linux devops
 
 ##define this for disqus comment support
 disqus: dimus

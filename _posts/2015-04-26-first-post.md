@@ -3,12 +3,12 @@ layout: post
 tags: jekyll vim
 date: 2015-04-26 09:16:42
 thumbnail: http://placehold.it/100x100
-title: Date for jekyll metadata
+title: Date for Jekyll&rsquo;s "Front Matter"
 published: true
 ---
 
 I talked with [pleary][1] yesterday and he mentioned his blog for which he uses
-jekyll and [github pages][2]. I liked the idea so now I am plaing with one
+Jekyll and [github pages][2]. I liked the idea so now I am playing with one
 myself. So I follwed [instructions][2], grabbed a [template][3] and now I am
 all set to write my first blog about making my first blog.
 
@@ -39,11 +39,11 @@ My editor of choice is Vim, and now I can just use
 
     :r !bdate
 
-Another thing I found useful is `gqip` shorcut that reformats paragraphs for me
-and wraps them neatly at 80 columns. However when I looked at my first post I
-found that my text wraps at every new line I inserted! Definitely not what I
-want. After reading about [kramdown options][4] i found how to change this
-behavior:
+Another thing I found to be useful is `gqip` shorcut that reformats paragraphs
+for me and wraps them neatly at 80 columns. However when I looked at my first
+post I found that my text wraps at every new line I inserted! Definitely not
+what I want. After reading about [kramdown options][4] i found how to change
+this behavior:
 
 ```yaml
 markdown: kramdown
