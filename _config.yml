@@ -1,20 +1,40 @@
-# Site settings
-title: Dima's Technical Blog
-email: dmozzherin@gmail.com
-description: "Programs and things"
-logo_location: "http://placehold.it/100x100&text=LOGO"
-timezone: "America/New York"
-
-#baseurl: "" # the subpath of your site, e.g. /blog/
-#url: "" # the base hostname & protocol for your site
-
-# Build settings
+##The website title
+name: Techie Notes
+##Markdown processor
 markdown: kramdown
 kramdown:
   hard_wrap: false
   input: GFM
-
+##syntax highlighter. change it to pygments
 highlighter: pygments
 
-#Other Global Configuration
-exclude: ['README.md']
+##define base_url for valid usage in sitemap.xml and robots.txt
+base_url: https://dimus.github.io
+sass:
+  sass_dir: _sass
+  style: :compressed
+paginate: 5
+paginate_path: "page:num"
+##The website description (to be used in meta tags)
+description: Blog about programming, devops and life
+##Some frequently used keywords on your website
+keywords: golang ruby chef docker linux
+
+##define this for disqus comment support
+disqus: dimus
+
+##set this to enable google analytics
+#ga_id: analyticsID
+#ga_domain: analyticsDomain
+
+##Some commonly used links
+links:
+  email: dmozzherin@gmail.com
+  github: dimus
+
+##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
+about_image: dimus.jpg
+##comment this if you want full width posts with no sidebar
+sidebar: on
+
+timezone: "America/New York"
