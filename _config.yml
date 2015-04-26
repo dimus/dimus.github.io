@@ -1,8 +1,9 @@
 # Site settings
-title: Site Title
-email: somename@somedomain.com
-description: "Site Description"
+title: Dima's Technical Blog
+email: dmozzherin@gmail.com
+description: "Programs and things"
 logo_location: "http://placehold.it/100x100&text=LOGO"
+timezone: "America/New York"
 
 #baseurl: "" # the subpath of your site, e.g. /blog/
 #url: "" # the base hostname & protocol for your site
@@ -10,6 +11,7 @@ logo_location: "http://placehold.it/100x100&text=LOGO"
 # Build settings
 markdown: kramdown
 kramdown:
+  hard_wrap: false
   input: GFM
 
 highlighter: pygments
