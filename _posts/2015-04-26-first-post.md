@@ -39,8 +39,11 @@ My editor of choice is Vim, and now I can just use
 
     :r !bdate
 
-Another thing I found useful is `gqip` shorcut that reformats paragraphs
-for me and wraps them neatly at 80 columns. However when I looked at my first post I found that my text wraps at every new line I inserted! Definitely not what I want. After reading about [kramdown options][4] i found how to change this behavior:
+Another thing I found useful is `gqip` shorcut that reformats paragraphs for me
+and wraps them neatly at 80 columns. However when I looked at my first post I
+found that my text wraps at every new line I inserted! Definitely not what I
+want. After reading about [kramdown options][4] i found how to change this
+behavior:
 
 ```yaml
 markdown: kramdown
