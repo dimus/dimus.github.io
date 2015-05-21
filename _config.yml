@@ -38,3 +38,9 @@ about_image: dimus.jpg
 sidebar: on
 
 timezone: "America/New York"
+
+gems:
+- jekyll-mentions
+- jemoji
+- jekyll-redirect-from
+- jekyll-sitemap
