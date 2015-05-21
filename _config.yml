@@ -6,7 +6,7 @@ kramdown:
   hard_wrap: false
   input: GFM
 ##syntax highlighter. change it to pygments
-highlighter: rouge #pygments
+highlighter: pygments
 
 ##define base_url for valid usage in sitemap.xml and robots.txt
 base_url: https://dimus.github.io
