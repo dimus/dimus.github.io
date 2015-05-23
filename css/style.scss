@@ -489,3 +489,9 @@ article{
 		display: none;
 	}
 }
+
+table, th, td {
+  padding: 5px;
+  border: 1px solid grey;
+  border-collapse: collapse
+}
