@@ -6,7 +6,7 @@ title: Change by Design book by Tim Brown
 published: true
 ---
 
-I am listening the book while driving or biking and trying to grab nuggets of
+I am listening the ["Change by Design"][book] book by Tim Brown  while driving or biking and trying to grab nuggets of
 whisdom in this blog. I am writing it day by day, putting down ideas that
 resonated with me and thoughts that they broght out.
 
@@ -78,3 +78,5 @@ Design as a communal effort
   psychologically as close to what they are as possible. Bewave about what will
   happen with people when they move back to their jobs later. They might not
   want to be what they had been anymore.
+
+[book]: http://www.amazon.com/Change-Design-Transforms-Organizations-Innovation/dp/B005ZH54ZY/ref=sr_1_1?s=books&ie=UTF8&qid=1432484028&sr=1-1
