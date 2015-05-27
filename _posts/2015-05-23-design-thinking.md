@@ -6,9 +6,10 @@ title: Change by Design book by Tim Brown
 published: true
 ---
 
-I am listening the ["Change by Design"][book] book by Tim Brown  while driving or biking and trying to grab nuggets of
-whisdom in this blog. I am writing it day by day, putting down ideas that
-resonated with me and thoughts that they broght out.
+I am listening the ["Change by Design"][book] book by Tim Brown  while
+driving or biking and trying to grab nuggets of whisdom in this blog. I am
+writing it day by day, putting down ideas that resonated with me and thoughts
+that they broght out.
 
 
 Design is about telling the story
@@ -78,5 +79,34 @@ Design as a communal effort
   psychologically as close to what they are as possible. Bewave about what will
   happen with people when they move back to their jobs later. They might not
   want to be what they had been anymore.
+
+Unfocused droup
+----------------
+
+Identify UNIQUE individuals who emotionally connected and passtionate to the
+product. In countrast with the focus group of randomly selecged individuals
+
+Chance favors prepared mind
+---------------------------
+
+Ovservation in environment, empathy to people, working with unfocused group are
+ways to perpare mind
+
+Conversion and Diversion
+------------------------
+
+Desian process consists of Diversion at first and generating a lot of ideas
+and then conversion of these ideas into a few, then the process repeats again
+and again until the balance between creativity and contrstrints of reality
+creates the best outcome of the design process.
+
+Drawing
+-------
+
+Drawing is the best way to bring together emotional message and functionality of
+design. Therefore drawing is in one of the most important tools of the design.
+People who do not draw well -- still should use drawing and get better.
+
+
 
 [book]: http://www.amazon.com/Change-Design-Transforms-Organizations-Innovation/dp/B005ZH54ZY/ref=sr_1_1?s=books&ie=UTF8&qid=1432484028&sr=1-1
