@@ -24,7 +24,7 @@ Install LaTeX
 sudo apt-get install texlive-full
 ```
 
-And you can go for a walk, lunch, have a bottle of vodka... It will take a
+And you can go for a walk, go for a lunch, watch a movie... It will take a
 while.
 
 Install tmux and tmuxinator
