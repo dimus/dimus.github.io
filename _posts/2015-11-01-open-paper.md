@@ -5,13 +5,15 @@ date: 2015-11-01 22:20:32
 title: Writing Open Access Papers like a Pro
 ---
 
-I decided to try writing papers pretty much the same way I write programs:
+I decided to try writing papers pretty much the same way I write programs.
 
-1. Have whole process open from the very start
-2. Use open source tools including Vim -- my editor of choice
-3. Use LaTeX -- open source editor and markup language
-4. Keep live update of resulting PDF so I have an immediate feedback after
-   saving the file
+My goal was:
+
+1. to have the whole process open from the very start
+2. to use Open Source tools including Vim -- my editor of choice
+3. to use LaTeX -- Open Source editor and markup language
+4. to keep live updates of resulting PDF so I have an immediate feedback after
+   saving my files
 
 Here are steps to achieve this on Ubuntu Linux:
 
