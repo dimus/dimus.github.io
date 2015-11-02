@@ -117,7 +117,7 @@ And PDF is automatically updating on every write
 Enjoy GitHub ecosystem
 ----------------------
 
-Now I put the [paper] on GitHub and can enjoy all the niceties GitHub gives to
+Now I put the [paper] on GitHub and enjoy all the niceties GitHub gives to
 users. I can plan my work ahead using GitHub Issues, get changes from coathors
 through pull requests, and with [ZenHub][zenhub] installed I can even setup
 agile-like iterations and see burndown while I am progressing on  paper
