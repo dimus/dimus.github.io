@@ -98,7 +98,8 @@ mux parpaper
 ```
 
 And I am all set!  On the left I have vim editor window, on the right I have
-live buld of PDF and if I see a trouble with PDF building -- I run
+live output from `latexmk` on continuous building of the PDF. If I see a
+trouble with PDF building -- I run
 
 ```
 pdflatex gnparser.tex
