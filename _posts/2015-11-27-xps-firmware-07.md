@@ -13,7 +13,7 @@ to have only typos I get from my own fingers :)
 Upgrading to BIOS A07 on Ubuntu
 -------------------------------
 
-* Go to [download page][a07] and download the sucker
+* Go to [the Dell support page][a07] and download the sucker
 * With sudo put it to /boot/efi dir
 * Restart and press F12 to get to upgrade window
 * Follow Instructions to Upgrade your BIOS firmware
