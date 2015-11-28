@@ -16,9 +16,9 @@ Upgrading to BIOS A07 on Ubuntu
 * Go to [download page][a07] and download the sucker
 * With sudo put it to /boot/efi dir
 * Restart and press F12 to get to upgrade window
-* Upgrade following instructions
+* Follow Instructions to Upgrade your BIOS firmware
 
-And here we go -- typing is back to normal AT LAST heh.
+And here we go -- typing is back to normal AT LAST.
 
 [xps13]: http://www.dell.com/us/business/p/xps-13-linux/pd
 [a07]: http://www.dell.com/support/home/us/en/04/Drivers/DriversDetails?driverId=28M21
