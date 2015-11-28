@@ -21,4 +21,4 @@ Upgrading to BIOS A07 on Ubuntu
 And here we go -- typing is back to normal AT LAST heh.
 
 [xps13]: http://www.dell.com/us/business/p/xps-13-linux/pd
-[a04]: http://www.dell.com/support/home/us/en/04/Drivers/DriversDetails?driverId=28M21
+[a07]: http://www.dell.com/support/home/us/en/04/Drivers/DriversDetails?driverId=28M21
