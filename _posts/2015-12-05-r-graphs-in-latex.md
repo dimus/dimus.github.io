@@ -2,7 +2,7 @@
 layout: post
 tags: latex
 date: 2015-12-05 20:08:20
-title: Add R Plots to LaTeX Document
+title: Add R Plots to LaTeX Documents
 ---
 
 Here I am showing how to go from data stored in csv file to a nice plot in
