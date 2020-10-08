@@ -91,6 +91,8 @@ ggplot(data=data, aes(x=threads, y=nps(mph),
 dev.off()
 ```
 
+Update (2020-10-07): I received a feedback that `dev.off()` is not needed now. More info can be found in this [StackOverflow Question][nodevoff]
+
 Note the `height` and `width` parameters for tikz() function -- they were
 needed to scale the plot down.  After the file is created it can be included
 into a LaTeX document:
@@ -113,3 +115,4 @@ into a LaTeX document:
 ![Tikz Plot][tikzplot]
 
 [tikzplot]: /img/tikz_image.png
+[nodevoff]: https://stackoverflow.com/questions/30042412/graphic-not-appearing-in-r-null-device/30042526#30042526
